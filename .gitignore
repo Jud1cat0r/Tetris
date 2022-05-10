@@ -1,0 +1,51 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#Other
+*.tlog
+*.liastbuildstate
+*.exe.recipe
+*.ilk
+*.log
+*.pdb
+*.idb
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.suo
+*.ipch
+*.json
+*.res
+*.testlog
+*.manifest
